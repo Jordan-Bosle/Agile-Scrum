@@ -127,7 +127,7 @@ C’est une sorte de négociation entre le product owner et l’équipe techniqu
 
 Le product owner propose des user stories. L’équipe technique analyse les user stories, les traduit en tâches techniques, et regarde en combien de temps chacune des user stories pourra être réalisée. Après négociation et décision concernant les choses à faire, les tâches constituent le sprint backlog.
 
-#### *Le Daily SCRUM : la mêlée quotidienne*
+#### _Le Daily SCRUM : la mêlée quotidienne_
 
 Dans l’optique de respecter la méthode SCRUM, chaque matin, quand l’équipe est au complet on réalise le daily scrum : une réunion de 5–10 minutes, qui se fait debout (pour aller plus vite !) où l’on parle de trois choses :
 - Ce qu’on a fait hier ?
@@ -136,7 +136,7 @@ Dans l’optique de respecter la méthode SCRUM, chaque matin, quand l’équipe
 
 Cette réunion permet de motiver et stimuler les équipes et sans cesse se reposer la question du sens de ses actions …
 
-#### *Et concrètement : comment on s’organise dans le sprint ?*
+#### <u>Et concrètement : comment on s’organise dans le sprint ?</u>
 
 Pour les ingrédients, vous pouvez vous équiper avant le sprint : d’un tableau velleda aimanté et de post-it de couleurs.
 
