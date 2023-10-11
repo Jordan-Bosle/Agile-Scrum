@@ -17,7 +17,7 @@ I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
    - [12. Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-améliorer-régulièrement-lefficacité-de-léquipe-en-ajustant-son-comportement)
 
      
-II. [II. La méthode SCRUM](#ii-la-méthode-scrum)
+II. [La méthode SCRUM](#ii-la-méthode-scrum)
    - [1. La Méthode Scrum : qui fait quoi ?](#1-la-méthode-scrum-qui-fait-quoi)
    - [2. Les grandes étapes de la méthode SCRUM](#6-les-grandes-étapes-de-la-méthode-scrum)
         
