@@ -15,7 +15,7 @@
    - Privilégier la simplicité en évitant le travail inutile
    - Auto-organiser et responsabiliser les équipes
    - Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement
-2. [Les 12 principes du manifeste Agile](#I)
+2. [Les 12 principes du manifeste Agile](#II)
 3. [Les 12 principes du manifeste Agile](#I)
 4. [Les 12 principes du manifeste Agile](#I)
 
