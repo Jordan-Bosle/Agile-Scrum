@@ -3,7 +3,7 @@
 ## Sommaire
 
 1. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
-   - Prioriser la satisfaction du client
+   - [Prioriser la satisfaction du client](#1-prioriser-la-satisfaction-du-client)
    - Accepter les changements
    - Livrer en permanence des versions opérationnelles de l’application
    - Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier
