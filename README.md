@@ -89,7 +89,7 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
 
 # [II. La méthode SCRUM]
 
-[Le SCRUM guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)
+### ***[Le SCRUM guide](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)***
 
 ![Graphique méthode SCRUM](scrum.png)
 
