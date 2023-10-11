@@ -1,10 +1,10 @@
 # Agile-Scrum
 
 ## Sommaire 
- [Les 12 principes du manifeste Agile](#I)
+ - [Les 12 principes du manifeste Agile](#I)
+ - - test
+   - 
 
-### Mon Paragraphe {#mon-paragraphe}
-Ceci est le paragraphe vers lequel je veux créer un lien.
 
 ## [I. Les 12 principes du manifeste Agile](#I)
 
@@ -61,18 +61,4 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
  - - -
 
 ## II. Les 12 principes du manifeste Agile
-
-## Sommaire
-
-- [Introduction](#introduction)
-- [Mon Paragraphe](#mon-paragraphe)
-- [Conclusion](#conclusion)
-
-## Introduction {#introduction}
-Ceci est l'introduction du document.
-
-
-
-## Conclusion {#conclusion}
-Ceci est la conclusion du document.
 
