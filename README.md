@@ -103,6 +103,6 @@ Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que
 
   #### Et l’équipe justement ?
 
-  ![L'organisation de la méthode SCRUM]()
+  ![L'organisation de la méthode SCRUM](1.png)
 
 ‍Elle est constituée des développeurs. Dans la méthode SCRUM, il n’est pas censé y avoir de hiérarchie entre eux, quand bien même leur savoir-faire et compétence seraient différents. Idéalement une équipe contient 6 à 10 personnes pour être la plus efficace possible.
