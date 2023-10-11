@@ -15,11 +15,12 @@ I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
    - [10. Privilégier la simplicité en évitant le travail inutile](#10-privilégier-la-simplicité-en-évitant-le-travail-inutile)
    - [11. Auto-organiser et responsabiliser les équipes](#11-auto-organiser-et-responsabiliser-les-équipes)
    - [12. Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-améliorer-régulièrement-lefficacité-de-léquipe-en-ajustant-son-comportement)
+
+     
 II. [II. La méthode SCRUM](#ii-la-méthode-scrum)
-   - 1. [1. La Méthode Scrum : qui fait quoi ?](#1-la-méthode-scrum-qui-fait-quoi)
-     2. [2.Les grandes étapes de la méthode SCRUM](#6-les-grandes-étapes-de-la-méthode-scrum)
-
-
+   - [1.La Méthode Scrum : qui fait quoi ?](#1-la-méthode-scrum-qui-fait-quoi)
+   - [2.Les grandes étapes de la méthode SCRUM](#6-les-grandes-étapes-de-la-méthode-scrum)
+        
 
 
 # I. Les 12 principes du manifeste Agile
