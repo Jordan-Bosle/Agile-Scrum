@@ -89,6 +89,8 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
 
 # [II. La méthode SCRUM]
 
+![Graphique méthode SCRUM](scrum.png)
+
 Définition : L’approche SCRUM est une méthode agile consacrée à la gestion de projet.
 
 Son objectif phare est **d’améliorer la productivité** des équipes, tout en permettant une **optimisation du produit** grâce à des feedbacks réguliers du marché.
