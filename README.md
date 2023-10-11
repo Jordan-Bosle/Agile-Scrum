@@ -88,11 +88,11 @@ Son objectif phare est **d’améliorer la productivité** des équipes, tout en
 
 ### 1. La Méthode Scrum : qui fait quoi ?
 
-#### Le rôle du Scrum Master : le gourou
+##### Le rôle du Scrum Master : le gourou
 
 Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que les principes et les valeurs du Scrum sont respectés. C’est le coordinateur des équipes qui vérifie que la communication est au top. Il améliore aussi la productivité et il lève les obstacles.
 
-#### Le rôle du Product Owner
+##### Le rôle du Product Owner
 
 ‍Lui c’est l’expert qui collabore avec le client. Souvent le fondateur ou le boss.
 
@@ -101,8 +101,52 @@ Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que
 - Il valide les fonctionnalités développées.
 - Il endosse le rôle du client auprès de l’équipe.
 
-  #### Et l’équipe justement ?
+  ##### Et l’équipe justement ?
 
   ![L'organisation de la méthode SCRUM](1.png)
+>‍ Elle est constituée des développeurs. Dans la méthode SCRUM, il n’est pas censé y avoir de hiérarchie entre eux, quand bien même leur savoir-faire et compétence seraient différents. Idéalement une équipe contient 6 à 10 personnes pour être la plus efficace possible.
 
-‍Elle est constituée des développeurs. Dans la méthode SCRUM, il n’est pas censé y avoir de hiérarchie entre eux, quand bien même leur savoir-faire et compétence seraient différents. Idéalement une équipe contient 6 à 10 personnes pour être la plus efficace possible.
+#### Les grandes étapes de la méthode agile SCRUM
+
+##### Étape 1 : Le Product Backlog
+
+Dans cette phase, le Product Owner rencontre le client et analyse son besoin. Il identifie toutes les fonctionnalités dont le produit devra être composé (les user stories) dans ce qui s’appelle le Product Backlog.
+
+Ce “ cahier des charges “ n’est pas fixé pour toujours, et pourra évoluer en fonction des besoins du client et l'avancement du projet.L’équipe décide de ce qu’elle peut faire et dans quel ordre le faire.
+
+##### Étape 2 : Le sprint
+
+‍La méthode SCRUM se caractérise par une répartition de chacune des tâches à faire. L’équipe trie les fonctionnalités et tâches qu’elle répartit dans des Sprint (durée de cycle de deux semaines).
+
+Et pendant ce cycle, l’équipe s’occupera par exemple uniquement de coder une fonctionnalité du produit qu’elle devra livrer à la fin de cette phase.
+
+> Le sprint planning meeting : on organise avant chaque sprint une réunion de planification.
+
+C’est une sorte de négociation entre le product owner et l’équipe technique : le sprint planning meeting. Cette réunion permet de sélectionner dans le product backlog les exigences les plus prioritaires pour le client.
+
+Le product owner propose des user stories. L’équipe technique analyse les user stories, les traduit en tâches techniques, et regarde en combien de temps chacune des user stories pourra être réalisée. Après négociation et décision concernant les choses à faire, les tâches constituent le sprint backlog.
+
+###### Le Daily SCRUM : la mêlée quotidienne
+
+Dans l’optique de respecter la méthode SCRUM, chaque matin, quand l’équipe est au complet on réalise le daily scrum : une réunion de 5–10 minutes, qui se fait debout (pour aller plus vite !) où l’on parle de trois choses :
+- Ce qu’on a fait hier ?
+- Quels problèmes on a rencontrés ?
+- Que va-t-on faire aujourd’hui ?
+
+Cette réunion permet de motiver et stimuler les équipes et sans cesse se reposer la question du sens de ses actions …
+
+###### Et concrètement : comment on s’organise dans le sprint ?
+
+Pour les ingrédients, vous pouvez vous équiper avant le sprint : d’un tableau velleda aimanté et de post-it de couleurs.
+
+> Le tableau est divisé en trois colonnes : à faire, en cours, réalisé.
+
+En début de sprint, on recense chacune des petites tâches qui seront nécessaires pour réaliser la fonctionnalité en question du produit. On représente chaque tâche par un post-it de couleur. Elles se trouvent dans la première colonne : à faire.
+
+Au fur et à mesure qu’elles seront réalisées, elles seront bougées vers la droite. L’équipe a établi combien de temps prendrait chaque tâche. Il est ainsi facile de voir pendant un sprint si l’équipe tiendra ses timings et ces objectifs. Cela force à tendre vers l’efficacité plus que la perfection.
+
+#### Étape 3 : Sprint Review
+
+Tous les vendredis qui closent un sprint on teste les bénéfices de la fonctionnalité avec le Product Owner.
+
+On fait une démo de ce qui a été créé. Puis le destinataire de la fonctionnalité (le client par exemple) confirme ou non si la fonctionnalité marche comme il le souhaitait. La boucle est bouclée !
