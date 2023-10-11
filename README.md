@@ -2,8 +2,8 @@
 
 ## Sommaire
 
-1. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
-   - [Prioriser la satisfaction du client](#1-prioriser-la-satisfaction-du-client)
+I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
+   - [1. Prioriser la satisfaction du client](#1-prioriser-la-satisfaction-du-client)
    - [Accepter les changements](#2-accepter-les-changements)
    - [Livrer en permanence des versions opérationnelles de l’application](#3-livrer-en-permanence-des-versions-opérationnelles-de-lapplication)
    - [Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier](#4-assurer-le-plus-souvent-possible-une-coopération-entre-léquipe-du-projet-et-les-gens-du-métier)
@@ -15,9 +15,9 @@
    - [Privilégier la simplicité en évitant le travail inutile](#10-privilégier-la-simplicité-en-évitant-le-travail-inutile)
    - [Auto-organiser et responsabiliser les équipes](#11-auto-organiser-et-responsabiliser-les-équipes)
    - [Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-améliorer-régulièrement-lefficacité-de-léquipe-en-ajustant-son-comportement)
-2. [Les 12 principes du manifeste Agile](#II)
-3. [Les 12 principes du manifeste Agile](#I)
-4. [Les 12 principes du manifeste Agile](#I)
+II. [Les 12 principes du manifeste Agile](#II)
+III. [Les 12 principes du manifeste Agile](#I)
+IV. [Les 12 principes du manifeste Agile](#I)
 
 
 
