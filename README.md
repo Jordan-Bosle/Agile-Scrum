@@ -19,6 +19,7 @@ I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
      
 II. [La méthode SCRUM](#ii-la-méthode-scrum)
    - [1. La Méthode Scrum : qui fait quoi ?](#1-la-méthode-scrum--qui-fait-quoi-)
+   - - test
    - [2. Les grandes étapes de la méthode SCRUM](#2les-grandes-étapes-de-la-méthode-scrum)
         
 
