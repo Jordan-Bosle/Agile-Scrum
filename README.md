@@ -100,3 +100,9 @@ Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que
 - Il les priorise ensuite avec l’équipe.
 - Il valide les fonctionnalités développées.
 - Il endosse le rôle du client auprès de l’équipe.
+
+  #### Et l’équipe justement ?
+
+  ![L'organisation de la méthode SCRUM](https://myoctocat.com/assets/images/base-octocat.svg](https://global-uploads.webflow.com/638b3d0a5fd2fda2068f23dc/63999949e72d2578cc66566d_5e834a7cd7b9d5312c5a3d63_la-methode-scrum-le-scrum-master.png)
+
+‍Elle est constituée des développeurs. Dans la méthode SCRUM, il n’est pas censé y avoir de hiérarchie entre eux, quand bien même leur savoir-faire et compétence seraient différents. Idéalement une équipe contient 6 à 10 personnes pour être la plus efficace possible.
