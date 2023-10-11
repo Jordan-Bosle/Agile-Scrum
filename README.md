@@ -3,8 +3,18 @@
 ## Sommaire
 
 1. [Les 12 principes du manifeste Agile](#I)
-   - test
-   - test
+   - Prioriser la satisfaction du client
+   - Accepter les changements
+   - Livrer en permanence des versions opérationnelles de l’application
+   - Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier
+   - Construire les projets autour de personnes motivées
+   - Favoriser le dialogue direct
+   - Mesurer l’avancement du projet en fonction de l’opérationnalité du produit
+   - Adopter un rythme constant et soutenable par tous les intervenants du projet
+   - Contrôler continuellement l’excellence de la conception et la bonne qualité technique
+   - Privilégier la simplicité en évitant le travail inutile
+   - Auto-organiser et responsabiliser les équipes
+   - Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement
 2. [Les 12 principes du manifeste Agile](#I)
 3. [Les 12 principes du manifeste Agile](#I)
 4. [Les 12 principes du manifeste Agile](#I)
@@ -65,5 +75,5 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
 
  - - -
 
-## II. Les 12 principes du manifeste Agile
+## [II. Les 12 principes du manifeste Agile](#II)
 
