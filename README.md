@@ -16,7 +16,8 @@ I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
    - [11. Auto-organiser et responsabiliser les équipes](#11-auto-organiser-et-responsabiliser-les-équipes)
    - [12. Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-améliorer-régulièrement-lefficacité-de-léquipe-en-ajustant-son-comportement)
 II. [II. La méthode SCRUM](#ii-la-méthode-scrum)
-   - 1. La Méthode Scrum : qui fait quoi ?
+   - 1. [1. La Méthode Scrum : qui fait quoi ?](#1-la-méthode-scrum-qui-fait-quoi)
+     2. [2.Les grandes étapes de la méthode SCRUM](#6-les-grandes-étapes-de-la-méthode-scrum)
 
 
 
@@ -93,7 +94,7 @@ Son objectif phare est **d’améliorer la productivité** des équipes, tout en
 
 Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que les principes et les valeurs du Scrum sont respectés. C’est le coordinateur des équipes qui vérifie que la communication est au top. Il améliore aussi la productivité et il lève les obstacles.
 
-###Le rôle du Product Owner
+### Le rôle du Product Owner
 
 ‍Lui c’est l’expert qui collabore avec le client. Souvent le fondateur ou le boss.
 
@@ -107,7 +108,7 @@ Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que
   ![L'organisation de la méthode SCRUM](1.png)
 >‍ Elle est constituée des développeurs. Dans la méthode SCRUM, il n’est pas censé y avoir de hiérarchie entre eux, quand bien même leur savoir-faire et compétence seraient différents. Idéalement une équipe contient 6 à 10 personnes pour être la plus efficace possible.
 
-## 2.Les grandes étapes de la méthode agile SCRUM
+## 2.Les grandes étapes de la méthode SCRUM
 
 ### Étape 1 : Le Product Backlog
 
