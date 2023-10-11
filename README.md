@@ -6,7 +6,7 @@
    - [Prioriser la satisfaction du client](#1-prioriser-la-satisfaction-du-client)
    - [Accepter les changements](#2-accepter-les-changements)
    - [Livrer en permanence des versions opérationnelles de l’application](#3-livrer-en-permanence-des-versions-opérationnelles-de-lapplication)
-   - [Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier](#4-accepter-les-changements)
+   - [Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier](#4-assurer-le-plus-souvent-possible-une-coopération-entre-léquipe-du-projet-et-les-gens-du-métier)
    - [Construire les projets autour de personnes motivées](#5-accepter-les-changements)
    - [Favoriser le dialogue direct](#6-accepter-les-changements)
    - [Mesurer l’avancement du projet en fonction de l’opérationnalité du produit](#7-accepter-les-changements)
