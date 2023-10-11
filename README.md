@@ -3,6 +3,8 @@
 ## Sommaire 
  [Les 12 principes du manifeste Agile](#I)
 
+### Mon Paragraphe {#mon-paragraphe}
+Ceci est le paragraphe vers lequel je veux créer un lien.
 
 ## [I. Les 12 principes du manifeste Agile](#I)
 
@@ -69,8 +71,7 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
 ## Introduction {#introduction}
 Ceci est l'introduction du document.
 
-### Mon Paragraphe {#mon-paragraphe}
-Ceci est le paragraphe vers lequel je veux créer un lien.
+
 
 ## Conclusion {#conclusion}
 Ceci est la conclusion du document.
