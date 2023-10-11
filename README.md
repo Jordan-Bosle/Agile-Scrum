@@ -3,8 +3,8 @@
 ## Sommaire
 
 1. [Les 12 principes du manifeste Agile](#I)
-- test
-- test
+ - test
+ - test
 2. [Les 12 principes du manifeste Agile](#I)
 3. [Les 12 principes du manifeste Agile](#I)
 4. [Les 12 principes du manifeste Agile](#I)
