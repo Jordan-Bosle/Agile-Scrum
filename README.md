@@ -1,9 +1,12 @@
 # Agile-Scrum
 
 ## Sommaire 
- - [Les 12 principes du manifeste Agile](#I)
- - - test
-   - 
+ 1. [Les 12 principes du manifeste Agile](#I)
+ - test
+ - test
+2. [Les 12 principes du manifeste Agile](#I)
+   - test
+   - test
 
 
 ## [I. Les 12 principes du manifeste Agile](#I)
