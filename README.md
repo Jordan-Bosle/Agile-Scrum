@@ -4,7 +4,7 @@
  [Les 12 principes du manifeste Agile](#I)
 
 
-## [I. Les 12 principes du manifeste Agile] (#I)
+## [I. Les 12 principes du manifeste Agile](#I)
 
 ### 1. Prioriser la satisfaction du client
 
