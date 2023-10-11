@@ -4,17 +4,17 @@
 
 1. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
    - [Prioriser la satisfaction du client](#1-prioriser-la-satisfaction-du-client)
-   - Accepter les changements
-   - Livrer en permanence des versions opérationnelles de l’application
-   - Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier
-   - Construire les projets autour de personnes motivées
-   - Favoriser le dialogue direct
-   - Mesurer l’avancement du projet en fonction de l’opérationnalité du produit
-   - Adopter un rythme constant et soutenable par tous les intervenants du projet
-   - Contrôler continuellement l’excellence de la conception et la bonne qualité technique
-   - Privilégier la simplicité en évitant le travail inutile
-   - Auto-organiser et responsabiliser les équipes
-   - Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement
+   - [Accepter les changements](#2-accepter-les-changements)
+   - [Livrer en permanence des versions opérationnelles de l’application](#3-livrer-en-permanence-des-versions-opérationnelles-de-lapplication)
+   - [Assurer le plus souvent possible une coopération entre l’équipe du projet et les gens du métier](#4-accepter-les-changements)
+   - [Construire les projets autour de personnes motivées](#5-accepter-les-changements)
+   - [Favoriser le dialogue direct](#6-accepter-les-changements)
+   - [Mesurer l’avancement du projet en fonction de l’opérationnalité du produit](#7-accepter-les-changements)
+   - [Adopter un rythme constant et soutenable par tous les intervenants du projet](#8-accepter-les-changements)
+   - [Contrôler continuellement l’excellence de la conception et la bonne qualité technique](#9-accepter-les-changements)
+   - [Privilégier la simplicité en évitant le travail inutile](#10-accepter-les-changements)
+   - [Auto-organiser et responsabiliser les équipes](#11-accepter-les-changements)
+   - [Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-accepter-les-changements)
 2. [Les 12 principes du manifeste Agile](#II)
 3. [Les 12 principes du manifeste Agile](#I)
 4. [Les 12 principes du manifeste Agile](#I)
