@@ -15,21 +15,10 @@ I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
    - [10. Privilégier la simplicité en évitant le travail inutile](#10-privilégier-la-simplicité-en-évitant-le-travail-inutile)
    - [11. Auto-organiser et responsabiliser les équipes](#11-auto-organiser-et-responsabiliser-les-équipes)
    - [12. Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-améliorer-régulièrement-lefficacité-de-léquipe-en-ajustant-son-comportement)
-II. [Les 12 principes du manifeste Agile](#II)
-III. [Les 12 principes du manifeste Agile](#I)
-IV. [Les 12 principes du manifeste Agile](#I)
+II. [II. La méthode SCRUM](#ii-la-méthode-scrum)
 
 
-1. I
-2. II
-3. III
-4. IV
-5. V
-6. VI
-7. VII
-8. VIII
-9. IX
-10. X
+
 
 ## I. Les 12 principes du manifeste Agile
 
@@ -83,7 +72,31 @@ Vous aurez beau avoir les meilleurs talents, une équipe travaillant sous la con
 
 L’amélioration continue est un principe que l’on doit garder en tête quand on travaille en méthode agile. Pourtant, la rétrospective est généralement la réunion qui passe à la trappe : c’est à la fin du sprint, souvent le vendredi, les gens sont fatigués, n’en voient pas l’utilité… C’est une erreur car il n’est pas possible de s’améliorer en arrière. Ne négligez pas ce moment-là, c’est peut-être le plus enrichissant pour vos équipes.
 
+
+
  - - -
 
-## [II. Les 12 principes du manifeste Agile](#II)
 
+
+## [II. La méthode SCRUM]
+
+Définition : L’approche SCRUM est une méthode agile consacrée à la gestion de projet.
+
+Son objectif phare est **d’améliorer la productivité** des équipes, tout en permettant une **optimisation du produit** grâce à des feedbacks réguliers du marché.
+
+> En parallèle, la méthode SCRUM permet d’avoir une vue d’ensemble du projet pour chacune des parties prenantes.
+
+### 1. La Méthode Scrum : qui fait quoi ?
+
+#### Le rôle du Scrum Master : le gourou
+
+Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que les principes et les valeurs du Scrum sont respectés. C’est le coordinateur des équipes qui vérifie que la communication est au top. Il améliore aussi la productivité et il lève les obstacles.
+
+#### Le rôle du Product Owner
+
+‍Lui c’est l’expert qui collabore avec le client. Souvent le fondateur ou le boss.
+
+- Il définit à la suite des feedbacks clients les spécificités fonctionnelles du produit.
+- Il les priorise ensuite avec l’équipe.
+- Il valide les fonctionnalités développées.
+- Il endosse le rôle du client auprès de l’équipe.
