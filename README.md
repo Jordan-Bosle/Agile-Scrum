@@ -1,10 +1,10 @@
 # Agile-Scrum
 
 ## Sommaire 
- [Les 12 principes du manifeste Agile ](#i-les-12-principes-du-manifeste-agile)
+ [Les 12 principes du manifeste Agile ](#I)
 
 
-## I. Les 12 principes du manifeste Agile{#i-les-12-principes-du-manifeste-agile}
+## I. Les 12 principes du manifeste Agile {#I}
 
 ### 1. Prioriser la satisfaction du client
 
