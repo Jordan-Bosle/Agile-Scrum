@@ -34,9 +34,9 @@ III. [La méthode SCRUM](#iii-la-méthode-scrum)
       - [Étape 3 : Sprint Review](#étape-3--sprint-review)
 
 IV. [Les outils complémentaires](#iv-les-outils-complémentaires)
-- [1. Le lean management](#1-la-méthode-scrum--qui-fait-quoi-)
-- [2. La méthode Kanban](#2-la-méthode-scrum--qui-fait-quoi-)
-- [3. Xtreme Programming](#3-la-méthode-scrum--qui-fait-quoi-)
+- [1. Le lean management](#1-le-lean-management)
+- [2. La méthode Kanban](#2-la-méthode-kanban)
+- [3. Xtreme Programming](#3-xtreme-programming)
 
 # I. Les 4 pilliers de la méthode Agile
 
