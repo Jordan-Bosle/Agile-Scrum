@@ -32,7 +32,12 @@ III. [La méthode SCRUM](#iii-la-méthode-scrum)
       - [Étape 1 : Le Product Backlog](#étape-1--le-product-backlog)
       - [Étape 2 : Le sprint](#étape-2--le-sprint)
       - [Étape 3 : Sprint Review](#étape-3--sprint-review)
-        
+
+IV. [Les outils complémentaires](#iv-les-outils-complémentaires)
+1. Le lean management
+  2. La méthode Kanban
+  3. Xtreme Programming
+
 # I. Les 4 pilliers de la méthode Agile
 
 ## 1. Les individus et les interactions plutôt que les processus et les outils
@@ -192,3 +197,7 @@ Au fur et à mesure qu’elles seront réalisées, elles seront bougées vers la
 Tous les vendredis qui closent un sprint on teste les bénéfices de la fonctionnalité avec le Product Owner.
 
 On fait une démo de ce qui a été créé. Puis le destinataire de la fonctionnalité (le client par exemple) confirme ou non si la fonctionnalité marche comme il le souhaitait. La boucle est bouclée !
+
+ - - -
+
+# IV. [Les outils complémentaires]
