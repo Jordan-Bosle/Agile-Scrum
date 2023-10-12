@@ -29,9 +29,10 @@ III. [La méthode SCRUM](#iii-la-méthode-scrum)
       - [Le rôle du Product Owner](#le-rôle-du-product-owner)
       - [Et l’équipe justement ?](#et-léquipe-justement-)
    - [2. Les grandes étapes de la méthode SCRUM](#2les-grandes-étapes-de-la-méthode-scrum)
-      - [Étape 1 : Le Product Backlog](#étape-1--le-product-backlog)
+      - [Étape 1 : Le Sprint 0](#étape-1--le-spring-0)
       - [Étape 2 : Le sprint](#étape-2--le-sprint)
       - [Étape 3 : Sprint Review](#étape-3--sprint-review)
+      - [Étape 4 : Sprint Retrospective](#étape-4--sprint-retrospective)
 
 IV. [Les outils complémentaires](#iv-les-outils-complémentaires)
 - [1. Le lean management](#1-le-lean-management)
@@ -155,7 +156,7 @@ Le Scrum Master est le guide de l'avancement du projet, celui qui s’assure que
 
 ## 2.Les grandes étapes de la méthode SCRUM
 
-### Étape 1 : Le Product Backlog
+### Étape 1 : Le sprint 0
 
 Dans cette phase, le Product Owner rencontre le client et analyse son besoin. Il identifie toutes les fonctionnalités dont le produit devra être composé (les user stories) dans ce qui s’appelle le Product Backlog.
 
@@ -197,6 +198,13 @@ Au fur et à mesure qu’elles seront réalisées, elles seront bougées vers la
 Tous les vendredis qui closent un sprint on teste les bénéfices de la fonctionnalité avec le Product Owner.
 
 On fait une démo de ce qui a été créé. Puis le destinataire de la fonctionnalité (le client par exemple) confirme ou non si la fonctionnalité marche comme il le souhaitait. La boucle est bouclée !
+
+### Étape 4 : Sprint Retrospective
+
+L’objectif de la rétrospective du sprint est de passer en revue :
+- ce qui **a bien fonctionné** lors du sprint qui vient de se terminer
+- ce qui pourrait **être amélioré**
+- ce que l’équipe **s’engage à faire** lors du sprint à venir
 
  - - -
 
