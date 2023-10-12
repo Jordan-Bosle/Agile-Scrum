@@ -39,16 +39,16 @@ III. [La méthode SCRUM](#iii-la-méthode-scrum)
 
 La première valeur du Manifeste Agile se base sur « les individus et les interactions plutôt que les processus et les outils. » Accorder plus de valeur aux personnes qu’aux processus ou aux outils est facile à comprendre, car ce sont les personnes qui répondent aux besoins de l’entreprise et qui sont le moteur du processus de développement. Si le processus ou les outils dirigent le développement, l’équipe est moins réactive au changement et moins susceptible de répondre aux besoins des clients. La communication est un exemple de la différence entre la valorisation des individus et celle des processus. Dans le cas des individus, la communication est fluide et s’établit quand le besoin s’en fait sentir. Dans le cas d’un processus, la communication est planifiée et nécessite un contenu spécifique.
 
-2. Logiciel fonctionnel et documentation complète
+## 2. Logiciel fonctionnel et documentation complète
 
 Historiquement, un temps considérable était consacré à la documentation du produit pour le développement et la livraison finale. Spécifications techniques, exigences techniques, prospectus technique, documents de conception d’interface, plans de test, plans de documentation et approbations requises pour chacun. La liste était longue et a été la cause de longs retards de développement. Le Manifeste Agile ne supprime pas la documentation, mais la rationalise sous une forme qui donne au développeur ce dont il a besoin pour faire son travail, sans s’embarrasser de détails. Le Manifeste Agile documente les exigences sous forme de récits d’utilisateurs (« user stories »), qui sont suffisants pour qu’un développeur de logiciels puisse commencer la tâche consistant à construire une nouvelle fonction.
 Le Manifeste Agile accorde de l’importance à la documentation, mais il en accorde encore plus au logiciel fonctionnel.
 
-3. La collaboration avec le client plutôt que la négociation du contrat
+## 3. La collaboration avec le client plutôt que la négociation du contrat
 
 La négociation est la période pendant laquelle le client et le chef de produit définissent les détails d’une livraison, avec des points en cours de route où les détails peuvent être renégociés. La collaboration est un domaine entièrement différent. Avec les modèles de développement tels que Waterfall, les clients négocient les exigences du produit, souvent de manière très détaillée, avant que le travail ne commence. Cela signifie que le client était impliqué dans le processus de développement avant le début du développement et après son achèvement, mais pas pendant le processus. Le Manifeste Agile décrit un client qui s’engage et collabore tout au long de la création du processus de développement. Il est ainsi beaucoup plus facile pour le développement de répondre aux besoins du client. Les méthodes Agile peuvent inclure le client à intervalles réguliers pour des démonstrations périodiques, mais un projet pourrait tout aussi bien avoir un utilisateur final faisant partie de l’équipe au quotidien et participant à toutes les réunions, dans le but de s’assurer que le produit répond aux besoins du client.
 
-4. Réagir au changement plutôt que de suivre un plan
+## 4. Réagir au changement plutôt que de suivre un plan
 
 Avec le développement traditionnel de logiciels, le changement était considéré comme une dépense et il fallait donc l’éviter. L’intention était de développer des plans détaillés et élaborés, avec un ensemble défini de fonctionnalités et généralement, tout ayant une priorité aussi élevée que le reste, avec un grand nombre d’interdépendances à livrer dans un certain ordre, afin que l’équipe puisse travailler sur la prochaine pièce du puzzle.
 
