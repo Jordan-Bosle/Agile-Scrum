@@ -1,4 +1,4 @@
-# Agile-Scrum
+<center> # Agile-Scrum </center>
 
 ## Sommaire
 
