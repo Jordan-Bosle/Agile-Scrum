@@ -54,6 +54,10 @@ Avec le développement traditionnel de logiciels, le changement était considér
 
 Avec Agile, la brièveté d’une itération signifie que les priorités peuvent être déplacées d’une itération à l’autre et que de nouvelles fonctionnalités peuvent être ajoutées à l’itération suivante. Le point de vue d’Agile est que les changements améliorent toujours un projet. Les changements apportent une valeur ajoutée.
 
+ - - -
+
+ 
+
 # II. Les 12 principes du manifeste Agile
 
 ## 1. Prioriser la satisfaction du client
