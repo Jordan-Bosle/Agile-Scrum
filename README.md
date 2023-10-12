@@ -2,7 +2,13 @@
 
 ## Sommaire
 
-I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
+I. [Les 4 pilliers de la méthode Agile](#i-les-4-pilliers-de-la-méthode-agile)
+- [1. Les individus et les interactions plutôt que les processus et les outils](#1-les-individus-et-les-interactions-plutôt-que-les-processus-et-les-outils)
+- [2. Logiciel fonctionnel et documentation complète](#2-logiciel-fonctionnel-et-documentation-complète)
+- [3. La collaboration avec le client plutôt que la négociation du contrat](#3-la-collaboration-avec-le-client-plutôt-que-la-négociation-du-contrat)
+- [4. Réagir au changement plutôt que de suivre un plan](#4-réagir-au-changement-plutôt-que-de-suivre-un-plan)
+
+II. [Les 12 principes du manifeste Agile](#ii-les-12-principes-du-manifeste-agile)
    - [1. Prioriser la satisfaction du client](#1-prioriser-la-satisfaction-du-client)
    - [2. Accepter les changements](#2-accepter-les-changements)
    - [3. Livrer en permanence des versions opérationnelles de l’application](#3-livrer-en-permanence-des-versions-opérationnelles-de-lapplication)
@@ -17,7 +23,7 @@ I. [Les 12 principes du manifeste Agile](#i-les-12-principes-du-manifeste-agile)
    - [12. Améliorer régulièrement l’efficacité de l’équipe en ajustant son comportement](#12-améliorer-régulièrement-lefficacité-de-léquipe-en-ajustant-son-comportement)
 
      
-II. [La méthode SCRUM](#ii-la-méthode-scrum)
+III. [La méthode SCRUM](#iii-la-méthode-scrum)
    - [1. La Méthode Scrum : qui fait quoi ?](#1-la-méthode-scrum--qui-fait-quoi-)
       - [Le rôle du Scrum Master : le gourou](#le-rôle-du-scrum-master--le-gourou)
       - [Le rôle du Product Owner](#le-rôle-du-product-owner)
@@ -27,9 +33,28 @@ II. [La méthode SCRUM](#ii-la-méthode-scrum)
       - [Étape 2 : Le sprint](#étape-2--le-sprint)
       - [Étape 3 : Sprint Review](#étape-3--sprint-review)
         
+# I. Les 4 pilliers de la méthode Agile
 
+## 1. Les individus et les interactions plutôt que les processus et les outils
 
-# I. Les 12 principes du manifeste Agile
+La première valeur du Manifeste Agile se base sur « les individus et les interactions plutôt que les processus et les outils. » Accorder plus de valeur aux personnes qu’aux processus ou aux outils est facile à comprendre, car ce sont les personnes qui répondent aux besoins de l’entreprise et qui sont le moteur du processus de développement. Si le processus ou les outils dirigent le développement, l’équipe est moins réactive au changement et moins susceptible de répondre aux besoins des clients. La communication est un exemple de la différence entre la valorisation des individus et celle des processus. Dans le cas des individus, la communication est fluide et s’établit quand le besoin s’en fait sentir. Dans le cas d’un processus, la communication est planifiée et nécessite un contenu spécifique.
+
+2. Logiciel fonctionnel et documentation complète
+
+Historiquement, un temps considérable était consacré à la documentation du produit pour le développement et la livraison finale. Spécifications techniques, exigences techniques, prospectus technique, documents de conception d’interface, plans de test, plans de documentation et approbations requises pour chacun. La liste était longue et a été la cause de longs retards de développement. Le Manifeste Agile ne supprime pas la documentation, mais la rationalise sous une forme qui donne au développeur ce dont il a besoin pour faire son travail, sans s’embarrasser de détails. Le Manifeste Agile documente les exigences sous forme de récits d’utilisateurs (« user stories »), qui sont suffisants pour qu’un développeur de logiciels puisse commencer la tâche consistant à construire une nouvelle fonction.
+Le Manifeste Agile accorde de l’importance à la documentation, mais il en accorde encore plus au logiciel fonctionnel.
+
+3. La collaboration avec le client plutôt que la négociation du contrat
+
+La négociation est la période pendant laquelle le client et le chef de produit définissent les détails d’une livraison, avec des points en cours de route où les détails peuvent être renégociés. La collaboration est un domaine entièrement différent. Avec les modèles de développement tels que Waterfall, les clients négocient les exigences du produit, souvent de manière très détaillée, avant que le travail ne commence. Cela signifie que le client était impliqué dans le processus de développement avant le début du développement et après son achèvement, mais pas pendant le processus. Le Manifeste Agile décrit un client qui s’engage et collabore tout au long de la création du processus de développement. Il est ainsi beaucoup plus facile pour le développement de répondre aux besoins du client. Les méthodes Agile peuvent inclure le client à intervalles réguliers pour des démonstrations périodiques, mais un projet pourrait tout aussi bien avoir un utilisateur final faisant partie de l’équipe au quotidien et participant à toutes les réunions, dans le but de s’assurer que le produit répond aux besoins du client.
+
+4. Réagir au changement plutôt que de suivre un plan
+
+Avec le développement traditionnel de logiciels, le changement était considéré comme une dépense et il fallait donc l’éviter. L’intention était de développer des plans détaillés et élaborés, avec un ensemble défini de fonctionnalités et généralement, tout ayant une priorité aussi élevée que le reste, avec un grand nombre d’interdépendances à livrer dans un certain ordre, afin que l’équipe puisse travailler sur la prochaine pièce du puzzle.
+
+Avec Agile, la brièveté d’une itération signifie que les priorités peuvent être déplacées d’une itération à l’autre et que de nouvelles fonctionnalités peuvent être ajoutées à l’itération suivante. Le point de vue d’Agile est que les changements améliorent toujours un projet. Les changements apportent une valeur ajoutée.
+
+# II. Les 12 principes du manifeste Agile
 
 ## 1. Prioriser la satisfaction du client
 
@@ -87,7 +112,7 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
 
 
 
-# [II. La méthode SCRUM]
+# [III. La méthode SCRUM]
 
 ### ***[Pour consulter le SCRUM guide, cliquez ici !](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)***
 
