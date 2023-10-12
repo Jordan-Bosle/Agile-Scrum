@@ -1,4 +1,4 @@
-<center> # Agile-Scrum </center>
+ <h1 align="center"> Agile-Scrum </h1>
 
 ## Sommaire
 
