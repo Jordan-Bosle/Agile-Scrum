@@ -121,7 +121,7 @@ L’amélioration continue est un principe que l’on doit garder en tête quand
 
 
 
-# [III. La méthode SCRUM]
+# III. La méthode SCRUM
 
 ### ***[Pour consulter le SCRUM guide, cliquez ici !](https://scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-French.pdf)***
 
@@ -200,7 +200,7 @@ On fait une démo de ce qui a été créé. Puis le destinataire de la fonctionn
 
  - - -
 
-# IV. [Les outils complémentaires]
+# IV. Les outils complémentaires
 
 ## 1. Le lean management
 ## 2. La méthode Kanban
