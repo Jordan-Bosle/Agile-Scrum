@@ -203,5 +203,37 @@ On fait une démo de ce qui a été créé. Puis le destinataire de la fonctionn
 # IV. Les outils complémentaires
 
 ## 1. Le lean management
+
+Inspiré du système de production de Toyota, le Lean Management est une méthode de gestion et d’organisation du travail qui vise à améliorer les performances d’une entreprise et, plus particulièrement, la qualité et la rentabilité de sa production.
+
+Le Lean Management optimise les processus en réduisant les temps sans valeur ajoutée (opération ou transport inutile, attente, surproduction, etc.), les causes de non-qualité et la complexité. Cette méthode est portée par une dimension managériale importante qui permet aux collaborateurs de travailler dans les meilleures conditions. In fine, deux objectifs principaux sont visés : la satisfaction complète des clients et le succès de chaque salarié.
+
+Formalisé par des chercheurs américains du Massachussets Institute of Technology (MIT), le Lean Management est une expression anglo-saxonne dont le mot principal est évocateur. « Lean » signifie en effet « sans superflu ». Cela fait écho à l’idée de réduire quelque chose à l’essentiel, à supprimer l’inutile, qui est aux fondements de la méthode.
+
 ## 2. La méthode Kanban
+
+Kanban est un outil de gestion de projet visuel qui permet de suivre les tâches en temps réel, de gérer les priorités et de favoriser la collaboration entre les membres de l’équipe. 
+
+La méthode Kanban a pour but d’aider les équipes à répartir le volume de travail selon la disponibilité de chacun. La structure Kanban repose sur une philosophie axée sur la notion de perfectionnement constant, où les activités sont « extraites » d’un backlog produit pour former un flux régulier.
+
+Celle-ci s’articule autour de tableaux du même nom, lesquels sont une forme de gestion de projet visuelle qui permet aux équipes de mieux appréhender leur charge de travail et les flux s’y rapportant. Cette structure Kanban vise à présenter les activités d’un projet sous forme d’un tableau, dont les colonnes correspondent aux étapes de travail.
+
+Un tableau Kanban particulièrement élémentaire pourrait être tout simplement constitué de colonnes intitulées À faire, En cours et Terminé. Les tâches individuelles, représentées par des cartes visuelles, se déplacent d’une colonne à l’autre, jusqu’à leur accomplissement.
+
 ## 3. Xtreme Programming
+
+La méthodologie eXtreme Programming ou XP est une méthode de gestion de projet qui applique à l'extrême les principes du développement agile, c'est-à-dire se concentrer sur les besoins du clients, mettre en place un développement itératif et l'intégration continue. L'équipe projet et ses relations avec le client sont au coeur de XP.
+
+Cette méthode a été créée par Kent Beck entre 1996 et 1999, lorsqu'il travaillait sur un projet pour Chrysler. Elaborée à l'origine pour le secteur informatique, eXtreme Programming est aujourd'hui très populaire car elle fonctionne pour tous types de projets, de toutes tailles et de tous secteurs confondus, partout dans le monde. Cette méthodologie est idéale pour de petites et moyennes équipes, c'est-à-dire pas plus d'une vingtaine de personnes environ.
+
+### Les principes
+
+Les principes de la méthode eXtreme Programming ne sont pas nouveaux puisqu'il s'agit de ceux des méthodes Agiles. La différence et l'originalité résident dans le fait qu'ils sont poussés à l'extrême.
+
+XP repose sur cinq valeurs fondamentales :
+
+- **Communication** : il est essentiel que chaque membre de l'équipe communique quotidiennement avec ses collègues ainsi qu'avec le client. C'est un moyen incontournable pour résoudre les problèmes.
+- **Simplicité** : la façon la plus simple d'arriver au résultat est privilégiée. L'équipe projet fait ce qui est nécessaire et demandé, rien de plus. Une application simple sera plus facile à faire évoluer ensuite.
+- **Feedback** : le retour d'information entre l'équipe projet et le client est essentiel. Chaque étape du projet est envoyée aussi rapidement et souvent que possible au client afin qu'il teste, donne son avis et valide l'étape. Chaque demande de modification est prise en compte immédiatement.
+- **Respect** : le respect de chaque membre de l'équipe et de son travail sont primordiaux. Le management, l'équipe projet et le client se respectent mutuellement.
+- **Courage** : Il faut du courage pour effectuer certains changements comme essayer une nouvelle technique, recommencer une itération non validée ou revoir l'organisation du projet. Le courage permet de sortir d'une situation inadaptée.
